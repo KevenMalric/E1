@@ -6,13 +6,12 @@ l'idée de l'expérience, c'est de pîquer la curiosité et d'approfondir les li
 
 
 ## Qui
-![Dax](/img/Dax_Dasilva.jpg)
 
-**Dax Dasilva** est le fondateur de Lightspeed Commerce et Age of Union, Il est égalemtent un activiste environnemental.
+| ![Dax](/img/Dax_Dasilva.jpg)  | ![kelly](/img/Kelly_Nunes.jpg) |
+|----------|------------|
+| **Dax Dasilva** est le fondateur de Lightspeed Commerce et Age of Union, Il est égalemtent un activiste environnemental. | **Kelly Nunes** est un directeur artiste spécialisé en scénographie et direction multimédia. Il se constentre sur l'environement réactif et utilise des technoogies de l'architecture et de la scénograpgie. |
 
-![kelly](/img/Kelly_Nunes.jpg)
 
-**Kelly Nunes** est un directeur artiste spécialisé en scénographie et direction multimédia. Il se constentre sur l'environement réactif et utilise des technoogies de l'architecture et de la scénograpgie.
 
 ## où
 
@@ -28,9 +27,12 @@ Du 20 au 25 Août 2024
 
 
 ## comment
-![lol](/img/screen_shot_black_hole.png)
+| ![lol](/img/screen_shot_black_hole.png) | | | |
+|----------|------------|
+|tu rentre dans la piece, tu regarde le trou et tu respire lentement tout en te posant des questions sur l'origine de la vie. |
 
-tu rentre dans la piece, tu regarde le trou et tu respire lentement tout en te posant des questions sur l'origine de la vie.
+
+
 
 ## pourquoi?
 Pour faire vivre aux participant un moment d'arrêt et de sérinité irréel, surnaturelle voir de l'ordre de l'impossible éveil.
