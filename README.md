@@ -28,6 +28,8 @@ Du 20 au 25 Août 2024
 
 
 ## comment
+![localisation](https://github.com/Kyoxis/E1/blob/main/img/black_hole_where.png)
+
 tu rentre dans la piece, tu regarde le trou et tu respire lentement tout en te posant des questions sur l'origine de la vie.
 
 ## pourquoi?
