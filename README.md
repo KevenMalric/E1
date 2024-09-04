@@ -16,7 +16,7 @@ l'idée de l'expérience, c'est de pîquer la curiosité et d'approfondir les li
 
 ## où
 
-![kelly](https://github.com/Kyoxis/E1/blob/main/img/Kelly_Nunes.jpg)
+![localisation](https://github.com/Kyoxis/E1/blob/main/img/black_hole_where.png)
 
 Le Parterre, Quartier des spectacles
 Extérieur
