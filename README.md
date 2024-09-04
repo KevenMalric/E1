@@ -10,9 +10,14 @@ l'idée de l'expérience, c'est de pîquer la curiosité et d'approfondir les li
 
 **Dax Dasilva** est le fondateur de Lightspeed Commerce et Age of Union, Il est égalemtent un activiste environnemental.
 
+![kelly](https://github.com/Kyoxis/E1/blob/main/img/Kelly_Nunes.jpg)
+
 **Kelly Nunes** est un directeur artiste spécialisé en scénographie et direction multimédia. Il se constentre sur l'environement réactif et utilise des technoogies de l'architecture et de la scénograpgie.
 
 ## où
+
+![kelly](https://github.com/Kyoxis/E1/blob/main/img/Kelly_Nunes.jpg)
+
 Le Parterre, Quartier des spectacles
 Extérieur
 
