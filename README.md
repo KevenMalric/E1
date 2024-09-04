@@ -36,6 +36,9 @@ tu rentre dans la piece, tu regarde le trou et tu respire lentement tout en te p
 Pour faire vivre aux participant un moment d'arrêt et de sérinité irréel, surnaturelle voir de l'ordre de l'impossible éveil.
 
 ## Apréciation
-Ça marche pas si t'est sobre.
+Ça marche pas si t'est sobre...
+
+![lol](/img/personne_sobre.png)
+
 
 
