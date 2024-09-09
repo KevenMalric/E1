@@ -29,7 +29,7 @@ Du 20 au 25 Août 2024
 ## Comment interpréter la pièce immersive
 | ![lol](/img/screen_shot_black_hole.png) | ![lol](/img/Black%20Hole%20Experience3.png) |
 |----------|------------|
-|tu rentre dans la piece, tu regarde le trou et tu respire lentement tout en te posant des questions sur l'origine de la vie. |
+|Tu rentre dans la piece, tu regarde le trou et tu respire lentement tout en te posant des questions sur l'origine de la vie. |
 
 
 
