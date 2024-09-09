@@ -37,7 +37,7 @@ Du 20 au 25 Août 2024
 ## Pourquoi ils ont fait ça?
 Pour faire vivre aux participant un moment d'arrêt et de sérinité irréel, surnaturelle voir de l'ordre de l'impossible éveil.
 
-## Apréciation...
+## Appréciation...
 j'ai été interessé par leur propagande. L'idée d'une expérience de vide, de gravité et de non-sense hors du commun qui redifinirait la vision de soi et du monde nous entourant.
 La traversé inédite du continum espace-temps et d'un nombre impossible de réalités imaginables à l'intérieur du sombre inconue qu'est cette maxi-compresion spatio-temporelle porte à un réflexion et introspection des plus attirantes à mon sens. 
 
