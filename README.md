@@ -13,7 +13,7 @@ l'idée de l'expérience, c'est de pîquer la curiosité et d'approfondir les li
 
 
 
-## Où que ça ce passait?
+## Où ça ce passait?
 
 ![localisation](/img/black_hole_where.png)
 
