@@ -22,7 +22,7 @@ Extérieur
 
 Adresse : Boulevard de Maisonneuve et Rue Clark
 
-## Quand ça été présemté?
+## Quand ça été présenté?
 Du 20 au 25 Août 2024
 
 
