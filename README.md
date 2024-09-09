@@ -5,7 +5,7 @@ l'idée de l'expérience, c'est de pîquer la curiosité et d'approfondir les li
 
 
 
-## Qui
+## Qui ont participés?
 
 | ![Dax](/img/Dax_Dasilva.jpg)  | ![kelly](/img/Kelly_Nunes.jpg) |
 |----------|------------|
@@ -13,7 +13,7 @@ l'idée de l'expérience, c'est de pîquer la curiosité et d'approfondir les li
 
 
 
-## où
+## Où que ça ce passait?
 
 ![localisation](/img/black_hole_where.png)
 
@@ -22,11 +22,11 @@ Extérieur
 
 Adresse : Boulevard de Maisonneuve et Rue Clark
 
-## quand
+## Quand ça à eut lieux?
 Du 20 au 25 Août 2024
 
 
-## comment
+## Comment interpréter la pièce immersive
 | ![lol](/img/screen_shot_black_hole.png) | ![lol](/img/Black%20Hole%20Experience3.png) |
 |----------|------------|
 |tu rentre dans la piece, tu regarde le trou et tu respire lentement tout en te posant des questions sur l'origine de la vie. |
@@ -34,10 +34,10 @@ Du 20 au 25 Août 2024
 
 
 
-## pourquoi?
+## Pourquoi ils ont fait ça?
 Pour faire vivre aux participant un moment d'arrêt et de sérinité irréel, surnaturelle voir de l'ordre de l'impossible éveil.
 
-## Apréciation
+## Apréciation...
 j'ai été interessé par leur propagande. L'idée d'une expérience de vide, de gravité et de non-sense hors du commun qui redifinirait la vision de soi et du monde nous entourant.
 La traversé inédite du continum espace-temps et d'un nombre impossible de réalités imaginables à l'intérieur du sombre inconue qu'est cette maxi-compresion spatio-temporelle porte à un réflexion et introspection des plus attirantes à mon sens. 
 
